@@ -1,0 +1,16 @@
+name: Tutorial
+version: '${project.version}'
+main: tutorial.tutorial.MainClass
+api-version: 1.8
+description: TUTORIAL YT
+commands:
+  staffchat:
+    permission: staffchat
+
+    aliases:
+      - sc
+      - staffc
+
+
+
+# jangan lupa masukkan plugin ke server kalian, see you next time!!!
